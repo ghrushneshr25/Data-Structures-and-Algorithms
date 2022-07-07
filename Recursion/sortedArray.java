@@ -20,3 +20,9 @@ public class sortedArray {
         System.out.println(function(new int[] { 1, 3, 2, 4, 5, 6, 7 }, 7));
     }
 }
+
+
+/*
+ * Time : O(n)
+ * Space : O(n) for recursive stack 
+ */

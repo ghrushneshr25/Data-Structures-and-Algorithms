@@ -34,3 +34,8 @@ class towersOfHanoi {
         function(3, 'a', 'b', 'c');
     }
 }
+
+/*
+ * Time complexity: O(2^n)
+ * Space complexity: O(n)
+ */
